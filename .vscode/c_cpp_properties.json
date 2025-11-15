@@ -4,6 +4,18 @@
       "name": "Win64-MSVC",
       "includePath": [
         "${workspaceFolder}/OGRE/include/OGRE",
+        "${workspaceFolder}/OGRE/include/OGRE/Bites",
+        "${workspaceFolder}/OGRE/include/OGRE/Bullet",
+        "${workspaceFolder}/OGRE/include/OGRE/MeshLodGenerator",
+        "${workspaceFolder}/OGRE/include/OGRE/Overlay",
+        "${workspaceFolder}/OGRE/include/OGRE/Paging",
+        "${workspaceFolder}/OGRE/include/OGRE/Plugins",
+        "${workspaceFolder}/OGRE/include/OGRE/Property",
+        "${workspaceFolder}/OGRE/include/OGRE/RenderSystems",
+        "${workspaceFolder}/OGRE/include/OGRE/RTShaderSystem",
+        "${workspaceFolder}/OGRE/include/OGRE/Terrain",
+        "${workspaceFolder}/OGRE/include/OGRE/Threading",
+        "${workspaceFolder}/OGRE/include/OGRE/Volume",
         "${workspaceFolder}/src"
       ],
       "defines": [
